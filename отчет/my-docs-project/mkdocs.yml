@@ -1,1 +1,12 @@
-site_name: My Docs
+ite_name: Лабораторные работы по Web-программированию
+nav:
+  - Главная: index.md
+  - Лабораторная работа №1: lab-web1.md
+  - Лабораторная работа №2: lab-web2.md
+  - Лабораторная работа №3: lab-web3.md
+  - Лабораторная работа №4: lab-web4.md
+
+
+theme:
+  name: material
+  language: ru
